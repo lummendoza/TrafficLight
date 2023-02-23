@@ -10,3 +10,34 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.traffic-pole{
+    height: 180px;
+    width: 5%;
+    background-color: black;
+}
+.traffic-box-ligth{
+    height: 500px;
+    width: 28%;
+    background-color: black;
+}
+.light{
+    height: 150px;
+    width: 150px;
+    
+    border-radius: 50%;
+    border-style: solid;
+    border-color: yellow;
+    border-width: medium;
+    padding: 40px;
+}
+
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
